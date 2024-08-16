@@ -5,7 +5,7 @@ meu nome e elen
 - 📫 meu sonho é ser adivogada
 - 😄 contrato;[email,insta,linkendi]
 - ⚡ eu quero ser adivogada por q e uma proficão boa pra mim
-- -[] https://media.tenor.com/zQV1EHnRyVMAAAAi/stitch-love.gif
+- ![](https://media.tenor.com/zQV1EHnRyVMAAAAi/stitch-love.gif)
 
 <!---
 elen1e/elen1e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
